@@ -1,0 +1,93 @@
+body{
+  background-image: linear-gradient(#e8ecd6,#b4e9e2,#f1eb9a);
+}
+
+h1{
+  text-align: center;
+  font-family: Gloria Hallelujah;
+  font-size: 25px;
+}
+h3{
+  font-family: Staatliches;
+}
+.box1{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+  text-align: center;
+  width: 200px;
+  height: 150px;
+border-style:solid;
+  position: relative;
+  -webkit-animation: mymove 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+  animation: mymove 3s linear 1s infinite alternate;
+
+}
+@-webkit-keyframes mymove {
+  from {left: 0;}
+  to {right: 400px;}
+}
+
+@keyframes mymove {
+  from {left: 0;}
+  to {right: 400px;}
+}
+.box2{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+  text-align: center;
+  width: 200px;
+  height: 150px;
+border-style: solid;
+  position: relative;
+  -webkit-animation: mymove 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+  animation: mymove 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}
+
+@keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}
+.box3{
+box-shadow: 10px 10px;
+  border-radius: 50px;
+  text-align: center;
+  width: 200px;
+  height: 150px;
+border-style: solid;
+  position: relative;
+  -webkit-animation: mymove 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+  animation: mymove 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}
+
+@keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}
+.box4{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+  text-align: center;
+  width: 200px;
+  height: 130px;
+border-style: solid;
+  position: relative;
+  -webkit-animation: mymove 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+  animation: mymove 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}
+
+@keyframes mymove {
+  from {left: 0;}
+  to {left: 400px;}
+}

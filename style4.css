@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  color: #5dc0a6;
+}
+.tabp th{
+  background-color: #4CAF50;
+  height: 50px;
+  position:relative;
+  left:500px;
+}

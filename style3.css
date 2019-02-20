@@ -1,0 +1,40 @@
+.tab1{
+  border-collapse: collapse;
+  width: 100%;
+}
+.tab1 td{
+  text-align:center;
+  height: 120px;
+  }
+.tab1 th{
+  background-color: #4CAF50;
+  height:100px;
+}
+.tab2{
+  border-collapse: collapse;
+  width: 100%;
+}
+.tab2 td{
+  text-align:center;
+  height: 120px;
+  }
+.tab2 th{
+  background-color: #4CAF50;
+  height:100px;
+}
+.job{
+  position: relative;
+  left:250px;
+  width: 1000px;
+  text-align: center;
+  border-style:groove;
+  border-radius: 100px;
+  background-color: #69779b;
+
+}
+.fon1{
+  font-family: Courgette;
+}
+.line1{
+border: 1px solid red;
+}

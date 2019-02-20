@@ -1,0 +1,93 @@
+body{
+  height:300px;
+}
+
+.box5{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+border-style: solid;
+width:200px;
+height: 130px;
+position:relative;
+left:1300px;
+bottom:650px;
+text-align: center;
+-webkit-animation: myfirst 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+ animation: myfirst 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes myfirst {
+  from {right: 0;}
+  to {left:  800px;}
+}
+
+@keyframes myfirst {
+  from {right:  0;}
+  to {left: 800px;}
+}
+
+.box6{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+border-style: solid;
+width:200px;
+height: 130px;
+position:relative;
+left:1300px;
+bottom:650px;
+text-align: center;
+-webkit-animation: myfirst 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+ animation: myfirst 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes myfirst {
+  from {right: 0;}
+  to {left:  800px;}
+}
+
+@keyframes myfirst {
+  from {right:  0;}
+  to {left: 800px;}
+}
+.box7{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+border-style: solid;
+width:200px;
+height: 130px;
+position:relative;
+left:1300px;
+bottom:650px;
+text-align: center;
+-webkit-animation: myfirst 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+ animation: myfirst 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes myfirst {
+  from {right: 0;}
+  to {left:  800px;}
+}
+
+@keyframes myfirst {
+  from {right:  0;}
+  to {left: 800px;}
+}
+.box8{
+  box-shadow: 10px 10px;
+  border-radius: 50px;
+border-style: solid;
+width:200px;
+height: 130px;
+position:relative;
+left:1300px;
+bottom:650px;
+text-align: center;
+-webkit-animation: myfirst 3s linear 1s infinite alternate; /* Safari 4.0 - 8.0 */
+ animation: myfirst 3s linear 1s infinite alternate;
+}
+@-webkit-keyframes myfirst {
+  from {right: 0;}
+  to {left:  800px;}
+}
+
+@keyframes myfirst {
+  from {right:  0;}
+  to {left: 800px;}
+}

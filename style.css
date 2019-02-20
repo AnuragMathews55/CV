@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  height: 200px;
+}
+
+.flex-container {
+  display: flex;
+  background-image: linear-gradient(#233142, #ffcece, #c6cfff);
+  justify-content: center;
+}
+
+.flex-container>div {
+  font-family: ZCOOL KuaiLe;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.flex-lcontainer {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  width: 350px;
+  justify-content: center;
+}
+
+.flex-lcontainer>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.i1 {
+  width: 150px;
+  border-radius: 110px;
+}
+
+.flex-2container {
+  display: flex;
+  background-color: grey;
+  width: 350px;
+  flex-direction: column;
+  position: relative;
+  left: 400px;
+  bottom: 515px;
+}
+
+.flex-2container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px;
+}
+
+button {
+  width: 200px;
+  height: 200px;
+  background-color: #cdffeb;
+}
+
+.flex-3container {
+  display: flex;
+  background-color: grey;
+  width: 350px;
+  flex-direction: column;
+  position: relative;
+  left: 800px;
+  bottom: 655px;
+}
+
+.flex-3container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px
+}
+
+.flex-4container {
+  display: flex;
+  background-color: grey;
+  width: 300px;
+  flex-direction: column;
+  position: relative;
+  left: 1200px;
+  bottom: 790px;
+}
+
+.flex-4container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px;
+}
+
+.flex-5container {
+  display: flex;
+  background-color: grey;
+  width: 300px;
+  flex-direction: column;
+  position: relative;
+  left: 500px;
+  bottom: 700px;
+}
+
+.flex-5container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px;
+}
+
+.flex-6container {
+  display: flex;
+  background-color: grey;
+  width: 300px;
+  flex-direction: column;
+  position: relative;
+  left: 830px;
+  bottom: 690px;
+}
+
+.flex-6container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px;
+}
+
+.flex-7container {
+  display: flex;
+  background-color: grey;
+  width: 300px;
+  flex-direction: column;
+  position: relative;
+  left: 1180px;
+  bottom: 980px;
+}
+
+.flex-7container>div {
+  margin: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+  height: 120px;
+}
+.butop{
+  width: 160px;
+}
+.butopt{
+  width: 140px;
+  height:110px;
+}
